@@ -51,10 +51,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yuke001&show_icons=true&locale=en" alt="yuke001" />
+<img src="https://github-readme-stats.vercel.app/api?username=dsaipraneeth9&show_icons=true&locale=en" alt="dsaipraneeth9" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuke001" alt="yuke001" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsaipraneeth9" alt="dsaipraneeth9" />
 </p>
 
 ---
